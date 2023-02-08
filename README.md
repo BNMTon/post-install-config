@@ -45,7 +45,7 @@ Configure Roles/Departments
 Configure Agents/Users
 
 <p>
-<img src="https://i.imgur.com/feaIZ8a.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/A1BwOR4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Configure Help Topics/SLA
